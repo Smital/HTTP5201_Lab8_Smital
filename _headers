@@ -14,3 +14,5 @@
   X-Content-Type-Options: nosniff
 
   Referrer-Policy: same-origin
+
+  Content-Security-Policy: default-src 'self' trusted.com *.trusted.com
