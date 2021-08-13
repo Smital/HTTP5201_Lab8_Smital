@@ -6,3 +6,10 @@
    cache-control: no-cache
    cache-control: no-store
    cache-control: must-revalidate
+
+   User-Agent: Mozilla/5.0
+
+   Content-Encoding: gzip
+   Content-Encoding: compress
+   Content-Encoding: deflate
+   Content-Encoding: br
