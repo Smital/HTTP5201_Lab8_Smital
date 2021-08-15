@@ -16,3 +16,5 @@
   Referrer-Policy: same-origin
 
   Content-Security-Policy: default-src 'self' trusted.com *.trusted.com
+
+  Feature-Policy: fullscreen 'self'
